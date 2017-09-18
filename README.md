@@ -15,6 +15,6 @@ tested with:
 * Arduino Uno R3 (SoftwareSerial)
 * Leonardo Micro Pro (Serial1)
 
-![PCB](https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png "PCB at oshpark.com")
 
+### PCB for Arduino Pro-Mini with 20# 6x6mm tactile switches
 <a href="https://oshpark.com/shared_projects/dLmm6mMB"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
