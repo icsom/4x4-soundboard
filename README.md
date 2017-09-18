@@ -1,7 +1,6 @@
-# 4x4-soundboard
+# DIY Arduino 4x4-Soundboard
 
-## simple approach to build a soundboard
-## which plays sounds from sd-card
+### simple approach to build a soundboard which plays sounds from sd-card
 
 hardware:
 * Arduino / Leonardo
@@ -15,3 +14,4 @@ hardware:
 tested with:
 * Arduino Uno R3 (SoftwareSerial)
 * Leonardo Micro Pro (Serial1)
+
