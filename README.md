@@ -1,5 +1,5 @@
 # DIY Arduino 4x4-Soundboard
-
+![breadboard-picture][arduino_breadboard]
 ### simple approach to build a soundboard which plays sounds from sd-card
 
 hardware:
@@ -18,3 +18,5 @@ tested with:
 
 ### PCB for Arduino Pro-Mini with 20# 6x6mm tactile switches
 <a href="https://oshpark.com/shared_projects/dLmm6mMB"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+
+[arduino_breadboard]: https://github.com/icsom/4x4-soundboard/blob/master/pictures/arduino_breadboard.jpg "Arduino Uno R3 & DFPlayer mini & 4x4 Keypad"
