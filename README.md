@@ -7,7 +7,7 @@ hardware:
 * DFPlayer mini
 * 4x4 matrix keypad
 * 1 resistor (1K Ohm 0.25W)
-* 1 polarized capacitor (100nF 6.3V) 
+* 1 polarized capacitor (not necessarily - 100nF 6.3V) 
 * speaker (<=3W)
 * sd-card (<=32GB - FAT/FAT32)
 
